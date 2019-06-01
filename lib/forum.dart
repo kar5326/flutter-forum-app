@@ -85,7 +85,7 @@ class _ForumPageState extends State<ForumPage> {
   );
 
   static final listItemsData = [
-    new ListEntry("Chat", "Welcome to Flutter!", " ", 54, 2, true),
+    new ListEntry("Chat", "Welcome to Flutter!", "I am a new Flutter developer. Any advice?", 54, 2, true),
     new ListEntry("Local Groups", "GDG Rochester", "Join us on June 1st for the International Flutter Hackathon!",  154, 3,false),
     new ListEntry("Projects", "My cool app", "It took a long time, but I just released my newest app", 971, 0, false),
   ];
